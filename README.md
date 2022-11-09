@@ -1,0 +1,1 @@
+# 13hschweitzer-fingeruebung-eindimensionalesArray
